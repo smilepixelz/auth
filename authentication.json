@@ -1,0 +1,14 @@
+{
+  "Banned" : {
+    "PlaceHolderUser" : {
+      "Reason" : 'PlaceholderReason',
+      "Duration" : 1100
+    }
+  }
+  "Authed" : {
+    "1791496534" : {
+      "DateAuthorized" : '10/6/2022'
+      "Owner" : true
+    }
+  }
+}
